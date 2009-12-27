@@ -1,3 +1,5 @@
+#summary Txt Reader的使用说明.
+
 <p align=center>Txt Reader（小说阅读器） for linux</p>
 NOTICE:<br>    Designed with QT4, and tested in Everest linux 0.5.2. Before installtion please check the QT4 library.
 <br>
