@@ -1,0 +1,31 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+   <file>images/about.png</file>
+   <file>images/addbookmark.png</file>
+   <file>images/bookmark.png</file>
+   <file>images/bg.png</file>
+   <file>images/bgcolor.png</file>
+   <file>images/bgimage.png</file>
+   <file>images/codec.png</file>
+   <file>images/delbookmark.png</file>
+   <file>images/exit.png</file>
+   <file>images/font.png</file>
+   <file>images/icon.png</file>
+   <file>images/jump.png</file>
+   <file>images/min.png</file>
+   <file>images/open.png</file>
+   <file>images/restore.png</file>
+   <file>images/setfont.png</file>
+   <file>images/zoom-in.png</file>
+   <file>images/zoom-out.png</file>
+   <file>images/instruction.png</file>
+   <file>images/resetbg.png</file>
+   <file>images/fullscreen.png</file>
+   <file>images/nofullscreen.png</file>
+   <file>images/lang.png</file>
+   <file>i18n/txtreader_zh_CN.qm</file>
+   <file>i18n/txtreader_English.qm</file>
+   <file>README_zh_CN.HTML</file>
+   <file>README_English.HTML</file>
+</qresource>
+</RCC>
