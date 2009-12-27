@@ -14,4 +14,4 @@ Usages:<br>
 8.Other functions would be found if you have a try.<br>
 
                                                                  Design by lsyer<br>
-                                                            CopyLeft(C)2006-2008<br>
+                                                            {{{CopyLeft(C)2006-2008}}}<br>
