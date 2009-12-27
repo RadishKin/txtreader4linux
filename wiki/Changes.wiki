@@ -1,10 +1,4 @@
-= Introduction =
-
-Changes of the reader by far.
-
-
-= Details =
-
+#summary Changes of the reader by far,迄今为止的更新.
 
 {{{
 TxtReader(文本阅读器)
