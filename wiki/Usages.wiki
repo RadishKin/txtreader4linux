@@ -1,0 +1,17 @@
+Txt Reader for linux<br>
+<br>
+NOTICE:Designed with QT4, and tested in Everest linux 0.5.2. Before installtion please check the QT4 library. <br>
+<br>
+Usages:<br>
+<br>
+1.Right click on the tray icon or the reader, you could see a menu to show all the operations you could do;<br>
+2.Click the "Open" action from the menu, you could browse files and select one to open; Or drag and drop a file to open it;<br>
+3.Press "→" or "↓" or click the right to pagedown，"↑" or "←" or click the left to pageup;<br>
+4.Press "Esc" will hide the reader to a tray icon while the reader is activated;<br>
+5.Show and hide the reader by left click on the tray icon;<br>
+6.You could select the codec for your files by select the "Codec" submenu;<br>
+7.Using the "Bookmark" submenu,you could add or delete bookmark;<br>
+8.Other functions would be found if you have a try.<br>
+
+                                                                 Design by lsyer<br>
+                                                            CopyLeft(C)2006-2008<br>
