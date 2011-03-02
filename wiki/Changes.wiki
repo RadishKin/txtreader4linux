@@ -1,7 +1,7 @@
 #summary Changes of the reader by far,迄今为止的更新.
 
 
-TxtReader(文本阅读器)<br>
+'TxtReader(文本阅读器) for linux'<br>
 注意：使用QT4设计，在Everest0.5.2下测试通过，使用前请安装QT4库 <br><br><br>
 
 Changes <br><br>
